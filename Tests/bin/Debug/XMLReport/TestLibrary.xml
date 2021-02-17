@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run id="2" name="TestLibrary.dll" fullname="C:\Users\OTurkakin\source\Workspaces\ProjectX_OS\Tests\bin\Debug\TestLibrary.dll" testcasecount="7" result="Failed" total="1" passed="0" failed="1" inconclusive="0" skipped="0" asserts="1" engine-version="3.10.0.0" clr-version="4.0.30319.42000" start-time="2021-02-17 17:16:06Z" end-time="2021-02-17 17:17:01Z" duration="54.434708">
+  <command-line><![CDATA["C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\PROFESSIONAL\COMMON7\IDE\EXTENSIONS\TESTPLATFORM\Extensions\..//testhost.x86.exe"  --port 50135 --endpoint 127.0.0.1:050135 --role client --parentprocessid 17528 --datacollectionport 0 --telemetryoptedin true]]></command-line>
+  <filter>
+    <test>TestLibrary.LoginTest_01("chrome").ValidateLoginUser1</test>
+  </filter>
+  <test-suite type="Assembly" id="0-1009" name="TestLibrary.dll" fullname="C:\Users\OTurkakin\source\Workspaces\ProjectX_OS\Tests\bin\Debug\TestLibrary.dll" runstate="Runnable" testcasecount="7" result="Failed" site="Child" start-time="2021-02-17 17:16:06Z" end-time="2021-02-17 17:17:01Z" duration="54.354956" total="1" passed="0" failed="1" warnings="0" inconclusive="0" skipped="0" asserts="1">
+    <environment framework-version="3.12.0.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 10.0.18363.0" platform="Win32NT" cwd="C:\Users\OTurkakin\AppData\Local\Temp" machine-name="LPF22YXWQ-1123" user="oturkakin" user-domain="ELDREDGE_A" culture="en-US" uiculture="en-US" os-architecture="x86" />
+    <settings>
+      <setting name="SynchronousEvents" value="False" />
+      <setting name="InternalTraceLevel" value="Off" />
+      <setting name="RandomSeed" value="66912560" />
+      <setting name="TestParametersDictionary" value="[webAppUrl, http://pims-test.alliedsolutions.net/PimsSupport/Account/Login], [IsRemote, False]">
+        <item key="webAppUrl" value="http://pims-test.alliedsolutions.net/PimsSupport/Account/Login" />
+        <item key="IsRemote" value="False" />
+      </setting>
+      <setting name="TestParameters" value="webAppUrl=http://pims-test.alliedsolutions.net/PimsSupport/Account/Login;IsRemote=False" />
+      <setting name="ProcessModel" value="InProcess" />
+      <setting name="DomainUsage" value="Single" />
+      <setting name="DefaultTestNamePattern" value="{m}{a}" />
+      <setting name="WorkDirectory" value="C:\Users\OTurkakin\source\Workspaces\ProjectX_OS\Tests\bin\Debug" />
+      <setting name="ImageRuntimeVersion" value="4.0.30319" />
+      <setting name="ImageTargetFrameworkName" value=".NETFramework,Version=v4.6.1" />
+      <setting name="ImageRequiresX86" value="False" />
+      <setting name="ImageRequiresDefaultAppDomainAssemblyResolver" value="False" />
+      <setting name="RuntimeFramework" value="net-4.0" />
+      <setting name="NumberOfTestWorkers" value="8" />
+    </settings>
+    <properties>
+      <property name="_PID" value="14264" />
+      <property name="_APPDOMAIN" value="domain-3f9fe553-TestLibrary.dll" />
+    </properties>
+    <failure>
+      <message><![CDATA[One or more child tests had errors]]></message>
+    </failure>
+    <test-suite type="TestSuite" id="0-1010" name="TestLibrary" fullname="TestLibrary" runstate="Runnable" testcasecount="7" result="Failed" site="Child" start-time="2021-02-17 17:16:07Z" end-time="2021-02-17 17:17:01Z" duration="54.329087" total="1" passed="0" failed="1" warnings="0" inconclusive="0" skipped="0" asserts="1">
+      <failure>
+        <message><![CDATA[One or more child tests had errors]]></message>
+      </failure>
+      <test-suite type="TestFixture" id="0-1000" name="LoginTest_01(&quot;chrome&quot;)" fullname="TestLibrary.LoginTest_01(&quot;chrome&quot;)" classname="TestLibrary.LoginTest_01" runstate="Runnable" testcasecount="2" result="Failed" site="Child" start-time="2021-02-17 17:16:07Z" end-time="2021-02-17 17:17:01Z" duration="54.325066" total="1" passed="0" failed="1" warnings="0" inconclusive="0" skipped="0" asserts="1">
+        <failure>
+          <message><![CDATA[One or more child tests had errors]]></message>
+        </failure>
+        <test-case id="0-1001" name="ValidateLoginUser1" fullname="TestLibrary.LoginTest_01(&quot;chrome&quot;).ValidateLoginUser1" methodname="ValidateLoginUser1" classname="TestLibrary.LoginTest_01" runstate="Runnable" seed="697024170" result="Failed" label="Error" start-time="2021-02-17 17:16:08Z" end-time="2021-02-17 17:16:48Z" duration="40.284799" asserts="1">
+          <properties>
+            <property name="Description" value="Navigate to Home/Dashboard page and validate side menu components/ links exist." />
+            <property name="Category" value="SmokeTesting" />
+          </properties>
+          <failure>
+            <message><![CDATA[TearDown : OpenQA.Selenium.WebDriverTimeoutException : Timed out after 10 seconds
+  ----> OpenQA.Selenium.NoSuchElementException : no such element: Unable to locate element: {"method":"link text","selector":"Log off"}
+  (Session info: chrome=88.0.4324.150)]]></message>
+            <stack-trace><![CDATA[--TearDown
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at Core.PageObject.WebElementProxy.Get() in C:\Users\OTurkakin\source\Workspaces\ProjectX_OS\FrameworkCore\PageObject\WebElementProxy.cs:line 20
+   at Components.HeaderComponent.GoToLogout() in C:\Users\OTurkakin\source\Workspaces\ProjectX_OS\Components\HeaderComponent.cs:line 105
+   at TestLibrary.LoginTest_01.LogoutCenterPoint() in C:\Users\OTurkakin\source\Workspaces\ProjectX_OS\Tests\LoginTest_01.cs:line 57
+--NoSuchElementException
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByLinkText(String linkText)
+   at OpenQA.Selenium.By.<>c__DisplayClass17_0.<LinkText>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at Core.PageObject.WebElementProxy.<Get>b__3_0(IWebDriver drv) in C:\Users\OTurkakin\source\Workspaces\ProjectX_OS\FrameworkCore\PageObject\WebElementProxy.cs:line 20
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)]]></stack-trace>
+          </failure>
+        </test-case>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

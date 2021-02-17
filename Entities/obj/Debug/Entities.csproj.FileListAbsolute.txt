@@ -1,0 +1,53 @@
+C:\source\ASDevelopment\Automated Testing\Centerpoint Testing\Entities\bin\Debug\Entities.dll
+C:\source\ASDevelopment\Automated Testing\Centerpoint Testing\Entities\bin\Debug\Entities.pdb
+C:\source\ASDevelopment\Automated Testing\Centerpoint Testing\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\source\ASDevelopment\Automated Testing\Centerpoint Testing\Entities\obj\Debug\Entities.dll
+C:\source\ASDevelopment\Automated Testing\Centerpoint Testing\Entities\obj\Debug\Entities.pdb
+C:\source\ASDevelopment\Automated Testing\Centerpoint Testing\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\source\ASDevelopment\Automated Testing\Bond\Entities\bin\Debug\Entities.dll
+C:\source\ASDevelopment\Automated Testing\Bond\Entities\bin\Debug\Entities.pdb
+C:\source\ASDevelopment\Automated Testing\Bond\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\source\ASDevelopment\Automated Testing\Bond\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\source\ASDevelopment\Automated Testing\Bond\Entities\obj\Debug\Entities.dll
+C:\source\ASDevelopment\Automated Testing\Bond\Entities\obj\Debug\Entities.pdb
+C:\source\ASDevelopment\Automated Testing\PIMS Support\Entities\bin\Debug\Entities.dll
+C:\source\ASDevelopment\Automated Testing\PIMS Support\Entities\bin\Debug\Entities.pdb
+C:\source\ASDevelopment\Automated Testing\PIMS Support\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\source\ASDevelopment\Automated Testing\PIMS Support\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\source\ASDevelopment\Automated Testing\PIMS Support\Entities\obj\Debug\Entities.dll
+C:\source\ASDevelopment\Automated Testing\PIMS Support\Entities\obj\Debug\Entities.pdb
+C:\Users\OTurkakin\source\Workspaces\PimsSupport\Entities\bin\Debug\Entities.dll
+C:\Users\OTurkakin\source\Workspaces\PimsSupport\Entities\bin\Debug\Entities.pdb
+C:\Users\OTurkakin\source\Workspaces\PimsSupport\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\OTurkakin\source\Workspaces\PimsSupport\Entities\obj\Debug\Entities.dll
+C:\Users\OTurkakin\source\Workspaces\PimsSupport\Entities\obj\Debug\Entities.pdb
+C:\Users\OTurkakin\source\Workspaces\PimsSupport\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\OTurkakin\source\Workspaces\PimsSupport-02\Entities\bin\Debug\Entities.dll
+C:\Users\OTurkakin\source\Workspaces\PimsSupport-02\Entities\bin\Debug\Entities.pdb
+C:\Users\OTurkakin\source\Workspaces\PimsSupport-02\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\OTurkakin\source\Workspaces\PimsSupport-02\Entities\obj\Debug\Entities.dll
+C:\Users\OTurkakin\source\Workspaces\PimsSupport-02\Entities\obj\Debug\Entities.pdb
+C:\Users\OTurkakin\source\Workspaces\PimsSupport_A1\Entities\bin\Debug\Entities.dll
+C:\Users\OTurkakin\source\Workspaces\PimsSupport_A1\Entities\bin\Debug\Entities.pdb
+C:\Users\OTurkakin\source\Workspaces\PimsSupport_A1\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\OTurkakin\source\Workspaces\PimsSupport_A1\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\OTurkakin\source\Workspaces\PimsSupport_A1\Entities\obj\Debug\Entities.dll
+C:\Users\OTurkakin\source\Workspaces\PimsSupport_A1\Entities\obj\Debug\Entities.pdb
+C:\Users\OTurkakin\source\Workspaces\PimsSupport_A2\Entities\bin\Debug\Entities.dll
+C:\Users\OTurkakin\source\Workspaces\PimsSupport_A2\Entities\bin\Debug\Entities.pdb
+C:\Users\OTurkakin\source\Workspaces\PimsSupport_A2\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\OTurkakin\source\Workspaces\PimsSupport_A2\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\OTurkakin\source\Workspaces\PimsSupport_A2\Entities\obj\Debug\Entities.dll
+C:\Users\OTurkakin\source\Workspaces\PimsSupport_A2\Entities\obj\Debug\Entities.pdb
+C:\Users\OTurkakin\source\Workspaces\ProjectX_OS\Entities\bin\Debug\Entities.dll
+C:\Users\OTurkakin\source\Workspaces\ProjectX_OS\Entities\bin\Debug\Entities.pdb
+C:\Users\OTurkakin\source\Workspaces\ProjectX_OS\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\OTurkakin\source\Workspaces\ProjectX_OS\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\OTurkakin\source\Workspaces\ProjectX_OS\Entities\obj\Debug\Entities.dll
+C:\Users\OTurkakin\source\Workspaces\ProjectX_OS\Entities\obj\Debug\Entities.pdb
+C:\Users\OTurkakin\source\Workspaces\ProjectX_OSzzzz\Entities\bin\Debug\Entities.dll
+C:\Users\OTurkakin\source\Workspaces\ProjectX_OSzzzz\Entities\bin\Debug\Entities.pdb
+C:\Users\OTurkakin\source\Workspaces\ProjectX_OSzzzz\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\OTurkakin\source\Workspaces\ProjectX_OSzzzz\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\OTurkakin\source\Workspaces\ProjectX_OSzzzz\Entities\obj\Debug\Entities.dll
+C:\Users\OTurkakin\source\Workspaces\ProjectX_OSzzzz\Entities\obj\Debug\Entities.pdb
